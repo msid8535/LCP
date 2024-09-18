@@ -1,5 +1,5 @@
-# InformaticsPractices
-Informatics Practices project from 2020-21 Academic school year.
+# Informatics Practices
+Informatics Practices practical project from 2020-21 (final school year).
 
 This project was built to serve as a Movie ticketing application, making use of Python's **Pandas** library, as well as utlizing **tkinter** to build a Graphical User Interface (GUI). 
 
